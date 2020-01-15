@@ -7,7 +7,7 @@ Watson Studio is tightly integrated with the Watson Knowledge Catalog. The Watso
 
 The labs in this workshop will illustrate the myriad features included in Watson Studio, and Watson Knowlege Catalog. The labs need to be completed in order, except for Lab-7 which is standalone. The datasets used for the lab contain simulated data. 
 
-> <img src="https://github.com/bleonardb3/DS_POT_05-09/blob/master/images/DataScienceLifeCycle.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_01-16-2020/blob/master/images/DataScienceLifeCycle.png"/>
 
 1. [Lab-1](Lab-1) - This lab will set up the Watson Studio environment for subsequent labs and introduce you to the Project and Community features of Watson Studio
 
