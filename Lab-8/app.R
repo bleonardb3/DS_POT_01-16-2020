@@ -1,17 +1,12 @@
 # app.R
 
 # Detect and install missing packages before loading them
-# if (!require('pacman')) install.packages('pacman')
+if (!require('pacman')) install.packages('pacman')
 # Install and load packages
-# pacman::p_load('ibmdbR', 'shiny', 'shinythemes', 'plyr', 'DT', 'plotly')
-library('ibmdbR')
-library('shiny')
-library('plyr')
-library('DT')
-library('plotly')
+pacman::p_load('ibmdbR', 'shiny', 'shinythemes', 'plyr', 'DT', 'plotly')
 
 # Get connection details
-source('~/DS_POT_05-09/Lab-7/connection.R', local = TRUE)
+source('connection.R', local = TRUE)
 
 # Named colors for the pie graph
 darkred <- rgb(139, 0, 0, maxColorValue = 255)
@@ -40,7 +35,7 @@ shinyApp(
   ui = fluidPage(
     #shinythemes::themeSelector(),
     tags$head(tags$style('body {background-color: #FFFFEF; }')),
-    #theme = shinythemes::shinytheme('yeti'),
+    theme = shinythemes::shinytheme('yeti'),
     # Application title
     titlePanel('Human Trafficking'),
     sidebarLayout(
