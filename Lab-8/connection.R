@@ -6,11 +6,11 @@ dsn.hostname <- 'YOUR HOST NAME'
 dsn.uid <- 'YOUR USER NAME'
 dsn.pwd <- 'YOUR PASSWORD'
 dsn.database <- 'BLUDB'
-dsn.port <- '50000'
+dsn.port <- '50001'
 dsn.protocol <- 'TCPIP'
 
 
-vetting.table = 'FEMALE_HUMAN_TRAFFICKING'
+vetting.table = 'TRAFFICKING.FEMALE_HUMAN_TRAFFICKING'
 
 # initials should be your initials - replace BLB
 initials = "BLB"  
