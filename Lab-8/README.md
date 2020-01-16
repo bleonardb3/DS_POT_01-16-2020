@@ -48,13 +48,13 @@ Upon completing the lab, you will know how to:
 > <img src="https://github.com/bleonardb3/DS_POT_07-24/blob/master/Lab-8/images/SelectGit.png"/>
 
 ### Step 7.  Fill in git repository details using the URL `https://github.com/bleonardb3/DS_POT_09-05` and press `Create Project`.
-> <img src="https://github.com/bleonardb3/DS_POT_09-05/blob/master/Lab-8/images/CreateProject.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_01-16-2020/blob/master/Lab-8/images/CreateRProject.png"/>
 
 ### Step 8.  In the files pane in the lower right of the RStudio IDE, click `Lab-8`.
-> <img src="https://github.com/bleonardb3/DS_POT_09-05/blob/master/Lab-8/images/ClickonLab8.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_01-16-2020/blob/master/Lab-8/images/ClickonLab8.png"/>
 
 ### Step 9.  Click the `connection.R` file and fill in your DB2 Warehouse on Cloud connection details.   You can find these from one of the previous labs.   Don't forget to replace "BLB" with your initials.   Save the file.
-> <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/RStudio-lab3-connection.png"/>
+> <img src="https://github.com/bleonardb3/DS_POT_01-16-2020/blob/master/Lab-3/images/Clickconnections.r.png"/>
 
 ### Step 10.  Click the `dashConnectAndInteractInR.Rmd` file in the files pane in the lower right of the RStudio IDE. 
 > <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/Lab-3/images/RStudio-lab3-files.png"/>
